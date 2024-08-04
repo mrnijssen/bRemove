@@ -5,3 +5,5 @@
 - python main.py
 
 - Grab A Free API Key: https://www.remove.bg .
+
+- Mrnijssen
